@@ -6,6 +6,10 @@ start: Continious playback
 pause: Stop playback after current sentence.
 exit: Quit
 ```
+Usage: 
+```
+python b2s.py <pathToFile>
+```
 
 Example books at https://www.gutenberg.org/
 
